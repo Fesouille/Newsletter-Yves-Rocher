@@ -5,7 +5,7 @@ Newsletter Yves Rocher
 Project of [Ismail Joseph](https://github.com/Fesouille).
 ----------------------------------
 
-*Exercice realized in january 2019, as a project for the formation [BeCode](https://www.becode.org/) to be a Web Developper*
+*Small exercise to practise the basics of editing a Newsletter*
 
 
 * Project:
@@ -22,6 +22,3 @@ For this project, I have to make a newsletter based on a maquette provided by my
 ![Screenshot Yves Rocher Newsletter 2](img/capture2.png)
 ![Screenshot Yves Rocher Newsletter 3](img/capture3.png)
 
-
-* Progress: 
-	* 31 jan. - 1 feb. 2019: completion.
