@@ -9,7 +9,7 @@ Project of [Ismail Joseph](https://github.com/Fesouille).
 
 
 * Project:
-For this project, I have to make a newsletter based on a maquette provided by my coachs. The challenge is to only use HTML and properties specifics to newsletters (HTML inline style, no margins, no divs (only tables)...).
+I have to make a newsletter The challenge is to only use HTML and properties specifics to newsletters (HTML inline style, no margins, no divs (only tables)...).
 
 * Content:
 	* HTML file: contains the full newletter i.e. the content and the style
